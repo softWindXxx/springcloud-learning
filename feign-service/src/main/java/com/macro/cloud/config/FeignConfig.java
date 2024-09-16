@@ -5,7 +5,10 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by macro on 2019/9/5.
+ * @auther macrozheng
+ * @description OpenFeign配置类
+ * @date 2023/12/6
+ * @github https://github.com/macrozheng
  */
 @Configuration
 public class FeignConfig {

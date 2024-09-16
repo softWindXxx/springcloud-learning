@@ -6,7 +6,10 @@ import com.macro.cloud.service.UserService;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by macro on 2019/9/5.
+ * @auther macrozheng
+ * @description UserService中的服务降级处理逻辑
+ * @date 2023/12/6
+ * @github https://github.com/macrozheng
  */
 @Component
 public class UserFallbackService implements UserService {
